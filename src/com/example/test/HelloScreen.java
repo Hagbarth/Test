@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.widget.TextView;
 
 public class HelloScreen extends Activity {
-
+	//Testing if commit works
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
